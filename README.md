@@ -1,45 +1,56 @@
-# Project-Discovery of software for forensic dental studies
-  obtain  intruction in manupulation of software for racemization analysis in foresic dating
+# Project-Obsidian objects Dating and Features
   
-# Project Vision
-Utilize software to administer data  coming from racemization process
+##Project Vision
 
-# Mission
-Obtain software intrucction to manipulate and organize data coming from Racemization process.
+- Utilize Python software to recognize and administrated features of obsidian objects
 
-# Success Criteria
+## Mission
 
-Obtain basic instrucction of useful software for  data analysis
-Obtain knowledge based on   team members experiences.
-Improve tema members dialog to solve issues.
-Programming software according to own necessities.
-Obtain good grades to continue  studies.
+- Produce a piece of Python software to create networks and organize data of obsidian objects .
 
-##Behaviour Agreement
+## Success Criteria
 
-Be respectful 
-Be responsible for your personal project
-Be helpful and communicative.
-Be innovative  and supportive with new ideas.
-Share difficulties  and solutiuons.
-Be friendly and kind with everybody
-keep always possitive and with open mind.
-No leave doubts for next class
-Develop new skills
-Respect break time  start and end of classes
+- Obtain basic instrucction to use Python software in order to organize networks of obsidian objects.
+- Obtain knowledge based on team members experiences.
+- Improve team members dialog to solve issues related to individual projects.
+- Programming  Python software according to project necessities.
+- Obtain good grades to continue further studies.
+- Develop new skills in computer programming
+
+## Behaviour Agreement
+
+- Be respectful.
+- Be responsible for your personal project.
+- Be helpful and communicative.
+- Be innovative and supportive with new ideas.
+- Share difficulties  and solutiuons.
+- Be friendly and kind with everybody.
+- keep always possitive and with open mind.
+- No leave doubts for next class.
+- Improve previous manners and learn new ones from others.
+- Respect break time in scenarios such as supervisory meetings or classes.
 
 ##Communication Agreement
 
-Make an easy way to contact you 
-Interact more with people that keep in silence 
-Work on doubts within the class with a supervisors.
-Keep constant  contact with supervisors.
-Be specific  and brief with your emails.
-Arrive to class with new questions.
-Youtube and tutorials could be  also useful.
+- Make an easy way to contact members by compleating a board with emails,mobile numbers, and best way or time to contact each one.
+- Interact more with people that keep in silence to ensure they feel part of the team.
+- Work on doubts within the class with a supervisors to avoid future difficulties.
+- Keep constant  contact with supervisors.
+- Be specific  and brief with your emails. Easy to read ,save time.
+- Arrive to class with new questions related to the advances in individual projects.
+- Youtube and tutorials could be  also useful in case urgently communication is unsuccessful.
 
 ##Team Members
+Owner(s): 
+- Dr Dion O'Neale
+- Luis Miguel Escalante
 
-Product owner:  Dr Dion O'Neale
-Scrum Master: Dr M Fabiana Kubke
-Development Team: Luis Miguel  Escalante
+Developer(s)/Scrum Team:
+- Dr Dion O'Neale
+- Luis Miguel Escalante 
+- Tutors staff
+- Classmates
+
+Scrum Master:
+- Tutors Staff
+- Luis Miguel Escalante
